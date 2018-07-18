@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Aim Name"; ObjectID = "HsH-hZ-yAd"; */
+"HsH-hZ-yAd.text" = "Aim Name";
+
+/* Class = "UITextField"; placeholder = "item name..."; ObjectID = "Zae-4z-pzF"; */
+"Zae-4z-pzF.placeholder" = "item name...";
+
+/* Class = "UIButton"; normalTitle = "Add Item"; ObjectID = "blU-01-Yg5"; */
+"blU-01-Yg5.normalTitle" = "Add Item";
+
+/* Class = "UINavigationItem"; title = "Money Box"; ObjectID = "eja-mn-LdQ"; */
+"eja-mn-LdQ.title" = "Money Box";
+
+/* Class = "UITextField"; placeholder = "item cost..."; ObjectID = "paA-33-AYI"; */
+"paA-33-AYI.placeholder" = "item cost...";
+
+/* Class = "UILabel"; text = "Aim Cost"; ObjectID = "yvE-9W-aeP"; */
+"yvE-9W-aeP.text" = "Aim Cost";
